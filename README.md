@@ -1,5 +1,3 @@
-A generator of Unicode progress bars.
+Unicode Progress Bars Generator
 
-You can try it there: http://changaco.net/unicode-progress-bars/
-
-License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Website: https://theflashspeedster.github.io/Unicode-Progress-Bars
